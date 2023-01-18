@@ -1,0 +1,37 @@
+.mainFooter{
+background-color: skyblue;
+border:30px solid skyblue;
+margin-top: auto;
+
+}
+
+.images{
+    float:right;
+    margin-right: 300px;
+    margin-top: 10px; 
+}
+
+.youtube{
+    width: 30px;
+    height: 30px;
+    margin-left: 40px;  
+}
+
+.spotify{
+    width: 30px;
+    height: 30px;
+    margin-left: 40px;
+}
+
+.facebook{
+    width: 30px;
+    height: 30px;
+    margin-left: 40px;
+}
+
+.footerImage{
+    width: 1000px;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
